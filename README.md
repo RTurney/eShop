@@ -20,7 +20,9 @@ Once the project has downloaded, run:
 cd eShop && npm install
 ```
 
-## This will move you into the project and then install all necessary packages.
+This will move you into the project and then install all necessary packages.
+
+---
 
 ## Running the project
 
